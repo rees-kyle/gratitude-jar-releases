@@ -1,12 +1,12 @@
-# Gratitude Jar Releases
+# Gratitude Journal Releases
 
-Public Android APK releases for Gratitude Jar.
+Public Android APK releases for Gratitude Journal.
 
 ## Download
 
 Get the latest APK from the Releases page:
 
-https://github.com/rees-kyle/gratitude-jar-releases/releases/latest
+https://github.com/rees-kyle/gratitude-journal-releases/releases/latest
 
 ## Privacy
 
